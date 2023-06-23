@@ -4,7 +4,7 @@
 
 # steps    
 
-
+# MUST HAVE PYTHON 3.0 OR MORE INSTALLED
 
 
 first click on
