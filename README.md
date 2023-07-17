@@ -46,6 +46,7 @@ extract ![image](https://github.com/daxxnr/Nrwebz/assets/125167362/a2270db4-5285
 ![image](https://github.com/daxxnr/Nrwebz/assets/125167362/0fd7f2c1-cb9d-42ca-91a2-dc3446daf8c0)
 after extracting
 double click and enjoy.
+![image](https://github.com/daxxnr/Nrwebz/assets/125167362/629c41b6-5f0e-4b02-80e9-cb30951e7192)
 
 
 
