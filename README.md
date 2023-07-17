@@ -3,6 +3,8 @@
 
 ## must have python 3.11.4 downloaded
 
+# IF PYTHON ALLREADY DOWNLOADED CLICK HERE : https://github.com/daxxnr/Nrwebz#installing-nrwebz
+
 # installing python
 
 ### go to this website
